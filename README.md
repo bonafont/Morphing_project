@@ -1,4 +1,4 @@
-# IR_morph
+# Morphing Project
 Morphing technique using Beier-Neely Method.
 
 Simple Project coded in C++ using the SDL Graphics Library.
